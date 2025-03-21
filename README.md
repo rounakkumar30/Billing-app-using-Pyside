@@ -120,6 +120,6 @@ Feel free to contribute by:
 
 ## 📩 Contact  
 
-For queries, reach out via [email@example.com](mailto:email@example.com)  
+For queries, reach out via [rounakverma30march@gmail.com](mailto:email@example.com)  
 
 🚀 **Happy Coding!**  
